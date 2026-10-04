@@ -67,11 +67,14 @@ Predicted Digit
 
 ## Project Structure
 
+```text
 MNIST-Digit-Classification/
 │
 ├── mnist_classification.ipynb
 ├── README.md
+│
 └── data/
     ├── mnist_train_small.csv
     └── mnist_test.csv
+```
 
