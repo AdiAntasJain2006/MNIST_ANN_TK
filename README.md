@@ -55,3 +55,23 @@ Output Layer
       │
       ▼
 Predicted Digit
+```
+
+## Results
+
+| Metric                    |     Result |
+| ------------------------- | ---------: |
+| Evaluation Accuracy       | **98.16%** |
+| Final Training Accuracy   | **98.67%** |
+| Final Validation Accuracy | **95.13%** |
+
+## Project Structure
+
+MNIST-Digit-Classification/
+│
+├── mnist_classification.ipynb
+├── README.md
+└── data/
+    ├── mnist_train_small.csv
+    └── mnist_test.csv
+
